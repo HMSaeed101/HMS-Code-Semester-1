@@ -18,15 +18,15 @@ Contains basic mathematical programs and algorithms:
 
 ### PF_Class
 Class assignments and exercises organized by topics:
-- **Arrays/**: Array manipulation programs (`1array.cpp`, `2array.cpp`)
-- **AssigPF/**: Assignments divided into three sets
-  - **Assign_1/**: Basic programming assignments (1-1 to 1-10)
-  - **Assign_2/**: Intermediate assignments including number guessing, factorial, prime checks (2-1 to 2-16+)
-  - **Assign_3/**: Advanced assignments
-- **Class/**: Class-specific exercises (1PFClass.cpp to 17PFClass.cpp)
-- **Functions/**: Function-related programs including recursion, overloading, and algorithms
-- **Pointers/**: Pointer manipulation exercises (000.cpp to 11.cpp)
-- **Switch/**: Switch statement programs including calculator and goto examples
+- **`Arrays/`**: Array manipulation programs (`1array.cpp`, `2array.cpp`)
+- **`AssigPF/`**: Assignments divided into three sets
+- **`Assign_1/`**: Basic programming assignments (1-1 to 1-10)
+- **`Assign_2/`**: Intermediate assignments including number guessing, factorial, prime checks (2-1 to 2-16+)
+- **`Assign_3/`**: Advanced assignments
+- **`Class/`**: Class-specific exercises (`1PFClass.cpp` to `17PFClass.cpp`)
+- **`Functions/`**: Function-related programs including recursion, overloading, and algorithms
+- **`Pointers/`**: Pointer manipulation exercises (000.cpp to 11.cpp)
+- **`Switch/`**: Switch statement programs including calculator and goto examples
 
 ### PF_LAB
 Laboratory tasks and manuals:
@@ -35,14 +35,14 @@ Laboratory tasks and manuals:
 
 ### Prct-Questions
 Practice questions for reinforcement:
-- Individual C++ programs (1.cpp to 18.cpp, with some numbers skipped)
+- Individual C++ programs (`1.cpp` to `9.cpp`)
 
 ### Shapes-Loops
 Programs for creating various shapes and patterns using loops:
-- Triangle shapes (equi-tri.cpp, invert-tri.cpp, right-tri.cpp)
-- Pyramids (half-pyramid.cpp, pyramid.cpp)
-- Boxes and patterns (box.cpp, MainBox.cpp, num-box.cpp)
-- Other shapes (Diamond.cpp, Cross.cpp, checkers.cpp)
+- Triangle shapes (`equi-tri.cpp`, `invert-tri.cpp`, `right-tri.cpp`)
+- Pyramids (`half-pyramid.cpp`, `pyramid.cpp`)
+- Boxes and patterns (`box.cpp`, `MainBox.cpp`, `num-box.cpp`)
+- Other shapes (`Diamond.cpp`, `Cross.cpp`, `checkers.cpp`)
 - Additional pattern programs
 
 ## Getting Started
