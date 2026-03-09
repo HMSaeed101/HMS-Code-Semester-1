@@ -2,9 +2,9 @@
 
 This repository contains C++ programming assignments, lab tasks, and practice exercises from the first semester of the Programming Fundamentals (PF) course at UET, Taxila.
 
-## Folder Structure
+## 📂 Folder Structure
 
-### Maths
+### 🧠 Maths
 Contains basic mathematical programs and algorithms:
 - `check-prime.cpp` - Check if a number is prime
 - `digits.cpp` - Digit manipulation programs
@@ -45,7 +45,7 @@ Programs for creating various shapes and patterns using loops:
 - Other shapes (`Diamond.cpp`, `Cross.cpp`, `checkers.cpp`)
 - Additional pattern programs
 
-## Getting Started
+## 🚀 Getting Started
 
 1. Ensure you have a C++ compiler installed (e.g., g++, MinGW on Windows)
 2. Each `.cpp` file can be compiled and run individually
