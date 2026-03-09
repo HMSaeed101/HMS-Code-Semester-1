@@ -1,4 +1,4 @@
-// Write a program to produce the following output: (By Bilal Mamu)
+// Write a program to produce the following output: (By Bilal)
 //        1  2  3  4  5  6  7  6  5  4  3  2  1
 //        1  2  3  4  5  6  _  6  5  4  3  2  1
 //        1  2  3  4  5  _  _  _  5  4  3  2  1 

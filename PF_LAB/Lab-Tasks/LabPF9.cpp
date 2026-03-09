@@ -9,9 +9,9 @@ int main()
      cin >> n1;
 
      cout << "Enter the second number : ";
-     cin >> n2
+     cin >> n2;
 
-     if (n1>n2)     {cout << " Number "; << n1 << "is greater than second" << endl;}
+     if (n1>n2)     {cout << " Number " << n1 << "is greater than second" << endl;}
      else           {cout << "Number " << n2 << "less than number one.";}
      return 0; 
 }

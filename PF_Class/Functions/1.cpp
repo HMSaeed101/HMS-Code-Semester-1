@@ -1,25 +1,15 @@
-// Factorial by Function Recursion
 #include <iostream>
 using namespace std;
 
-int fact(int a)
-{
-     // Base condition
-     if (a == 1)
-         return 1;
-
-     // Recursive case
-     return a * fact(a - 1);
+// Function that counts how many times it has been called
+void callCounter() {
+    static int count = 0;  //static local variable retains its value between calls
+    count++;
+    cout << count << " times." << endl;
 }
 
-int main()
+int main() 
 {
-    int num, ans;
-    cout << "Enter a number: ";
-    cin >> num;
-
-    ans = fact(num);
-    cout << "Factorial: " << ans;
-
+    callCounter();
     return 0;
 }
