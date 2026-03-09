@@ -1,0 +1,20 @@
+
+--------------------
+Student # 1
+Name : Saeed
+Marks of Physics : 89
+Marks of Chemistry : 78
+Marks of Biology : 90
+Total Marks : 257
+Grade : A 
+
+
+--------------------
+Student # 2
+Name : Saad
+Marks of Physics : 77
+Marks of Chemistry : 80
+Marks of Biology : 87
+Total Marks : 244
+Grade : A 
+
