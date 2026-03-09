@@ -30,8 +30,8 @@ Class assignments and exercises organized by topics:
 
 ### PF_LAB
 Laboratory tasks and manuals:
-- **Lab_Manuals_Tasks/**: Organized by topics (Arrays, File-Handling, Functions, If-Else, Loops, Structures, Switch)
-- **Lab-Tasks/**: Individual lab assignments (LabPF1.cpp to LabPF13.cpp)
+- **`Lab_Manuals_Tasks/`**: Organized by topics (Arrays, File-Handling, Functions, If-Else, Loops, Structures, Switch)
+- **`Lab-Tasks/`**: Individual lab assignments (`LabPF1.cpp` to `LabPF13.cpp`)
 
 ### Prct-Questions
 Practice questions for reinforcement:
